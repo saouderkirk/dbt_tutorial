@@ -1,0 +1,207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wpcom",
+				"wpcom_abtest_start"
+			],
+			[
+				"wpcom_emai",
+				"wpcom_email_click"
+			],
+			[
+				"even",
+				"eventname"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/avdl",
+		"/Users/simonouderkirk/Documents/old_sub_retention_dt.sql",
+		"/Users/simonouderkirk/Documents/refund esssions.sql",
+		"/Users/simonouderkirk/Downloads/dev_waterfall_query.sql",
+		"/Users/simonouderkirk/Desktop/email LookML",
+		"/Users/simonouderkirk/Desktop/email_dash_builder.sql",
+		"/Users/simonouderkirk/Downloads/SQLExercise.sql",
+		"/Users/simonouderkirk/Downloads/automattic_query.sql",
+		"/Users/simonouderkirk/Downloads/automattic_SQL_exercise.txt",
+		"/Users/simonouderkirk/Downloads/automattic-1.sql",
+		"/Users/simonouderkirk/Downloads/automattic.sql",
+		"/Users/simonouderkirk/Downloads/script.txt",
+		"/Users/simonouderkirk/Downloads/automattic.txt",
+		"/Users/simonouderkirk/Downloads/query.txt",
+		"/Users/simonouderkirk/Desktop/WPCOM Analyses/Indexing Seasonality/Build Index.R",
+		"/Users/simonouderkirk/Desktop/query.hql.sql",
+		"/Users/simonouderkirk/Desktop/WPCOM Analyses/20171101 - Refactor Campaign Report/RefactorCampaignReport.sql",
+		"/Users/simonouderkirk/Desktop/p2_corpus.json",
+		"/Users/simonouderkirk/Desktop/WPCOM Analyses/AMPLandingPages.html",
+		"/Users/simonouderkirk/growSAOtwitter/twitter_follow_bot.py",
+		"/Users/simonouderkirk/Documents/Cryptocoin_Tracker/ScrapingCoinData.py",
+		"/Users/simonouderkirk/Desktop/user.sh",
+		"/Users/simonouderkirk/Desktop/myvar2.sh",
+		"/Users/simonouderkirk/Desktop/var2.sh",
+		"/Users/simonouderkirk/Documents/Mobile vs. Desktop Conversion.sql",
+		"/Users/simonouderkirk/Documents/first.sh",
+		"/Users/simonouderkirk/Documents/var.sh"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dbt_project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
